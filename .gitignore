@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
+.env.*
+data/
+*.sqlite
+*.sqlite3
+*.db
+*.h5
+*.keras
+*.pt
+*.pth
